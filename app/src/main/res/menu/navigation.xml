@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_tab1"
+        android:icon="@drawable/wc_tab_chat_bg"
+        android:title="消息" />
+    <item
+        android:id="@+id/item_tab2"
+        android:icon="@drawable/wc_tab_contact_list_bg"
+        android:title="联系人" />
+    <item
+        android:id="@+id/item_tab3"
+        android:icon="@drawable/wc_tab_office_bg"
+        android:title="办公" />
+
+    <item
+        android:id="@+id/item_tab4"
+        android:icon="@drawable/wc_tab_app_bg"
+        android:title="应用" />
+
+    <item
+        android:id="@+id/item_tab5"
+        android:icon="@drawable/wc_tab_user_bg"
+        android:title="我的" />
+
+</menu>

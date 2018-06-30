@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- icon与text间隔大小 -->
+    <dimen tools:override="true" name="design_bottom_navigation_margin">10dp</dimen>
+    <!-- 导航栏高度 -->
+    <dimen tools:override="true" name="design_bottom_navigation_height">84dp</dimen>
+    <!-- text大小 -->
+    <dimen tools:override="true" name="design_bottom_navigation_text_size">12sp</dimen>
+
+    <dimen tools:override="true" name="design_bottom_navigation_active_text_size">12sp</dimen>
+</resources>
